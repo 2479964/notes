@@ -52,7 +52,8 @@
     "//cybersecurity/cybersecurity/Réseaux",
     "//cybersecurity/cybersecurity/ethical hacking",
     "//cybersecurity/cybersecurity/ethical hacking/cybersecurity/ethical hacking/distributions linux",
-    "//cybersecurity/cybersecurity/application"
+    "//cybersecurity/cybersecurity/application",
+    "//cybersecurity/cybersecurity/ethical hacking/cybersecurity/ethical hacking/pentesting"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
