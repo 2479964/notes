@@ -1,4 +1,9 @@
 [
   "folder-note-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-importer",
+  "obsidian-excalidraw-plugin",
+  "quickadd",
+  "smart-connections",
+  "make-md"
 ]

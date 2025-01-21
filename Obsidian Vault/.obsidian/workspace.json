@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cybersecurity/ethical hacking/pentesting/2.1 Documentation de l'attaque.md",
+                "file": "cybersecurity/Réseaux/adresses réseaux/1.2 adressse MAC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1 Documentation de l'attaque"
+              "title": "1.2 adressse MAC"
             }
           }
         ],
@@ -111,12 +111,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "a7ee1118fb0095f8",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 396.49999618530273
   },
   "right": {
     "id": "47a61bfad5692224",
@@ -192,13 +203,33 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ba124f18a1736b7e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
+          },
+          {
+            "id": "8bc9b7f433a01466",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat Conversation View"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,42 +241,48 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "6fa6820f8a32d2c2",
+  "active": "a7ee1118fb0095f8",
   "lastOpenFiles": [
+    "Recording 20250121024802.m4a",
+    "cybersecurity/Réseaux/adresses réseaux/1.2 adressse MAC.md",
+    "smart-chats/UNTITLED CHAT 2025-01-21 07 40 50.md",
+    "cybersecurity/Réseaux/adresses réseaux/adresses réseaux.md",
+    "cybersecurity/Réseaux/Gestions DATA/Key Management.md",
+    "cybersecurity/Réseaux/Gestions DATA/Password Management.md",
+    "cybersecurity/Réseaux/Gestions DATA/Data Isolation.md",
+    "cybersecurity/ethical hacking/distributions linux/Blackarch.md",
+    "cybersecurity/ethical hacking/distributions linux/Kali linux.md",
+    "cybersecurity/ethical hacking/ethical hacking.md",
+    "cybersecurity/Réseaux/Réseaux.md",
+    "cybersecurity/application/APIs.md",
+    "cybersecurity/cybersecurity.md",
+    "cybersecurity/Réseaux/Gestions DATA/Gestions DATA.md",
+    "cybersecurity/ethical hacking/pentesting/2.1 Documentation de l'attaque.md",
+    "Tags",
+    "smart-chats",
     "cybersecurity/ethical hacking/Malfaiteurs/1.1 Types de malfaiteurs.md",
     "cybersecurity/ethical hacking/distributions linux/Parrot OS.md",
-    "cybersecurity/ethical hacking/distributions linux/Kali linux.md",
-    "cybersecurity/ethical hacking/distributions linux/Blackarch.md",
     "cybersecurity/ethical hacking/pentesting/1.8 Certificats de comformitées.md",
     "Untitled.canvas",
-    "cybersecurity/ethical hacking/pentesting/2.1 Documentation de l'attaque.md",
     "cybersecurity/ethical hacking/pentesting/2.1.1 Scope Creep.md",
     "cybersecurity/ethical hacking/pentesting/2.0 Documents partagés par le client.md",
     "cybersecurity/ethical hacking/pentesting/1.9 Restriction Locale ou d'entreprise.md",
     "cybersecurity/ethical hacking/pentesting/pentesting.md",
-    "cybersecurity/application/APIs.md",
-    "cybersecurity/cybersecurity.md",
     "cybersecurity/application",
     "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Target and scope.md",
     "cybersecurity/applications.md",
     "zimages/Pasted image 20250109150414.png",
     "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Rules of engagement.md",
     "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Master Service Agreement.md",
-    "cybersecurity/Réseaux/adresses réseaux/1.1 IP/1.1.1 IPv4.md",
     "zimages/Pasted image 20250109143921.png",
     "zimages/Pasted image 20250109143809.png",
-    "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Contrats.md",
-    "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Statement of work.md",
-    "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Service-Level Agreement.md",
-    "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Non-Disclosure Agreement.md",
-    "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Confidentialité et informations sensibles.md",
-    "cybersecurity/ethical hacking/pentesting/1.7 Informations légales.md",
-    "cybersecurity/Réseaux/Gestions DATA/Data Isolation.md",
-    "cybersecurity/Réseaux/Gestions DATA/Gestions DATA.md",
-    "cybersecurity/Réseaux/Gestions DATA/Password Management.md",
     "cybersecurity/ethical hacking/pentesting/Lois, Contrats",
     "cybersecurity/Réseaux/Gestions DATA",
     "zimages/Pasted image 20250107141121.png",
@@ -256,10 +293,7 @@
     "zimages/images.png",
     "cybersecurity/ethical hacking/distributions linux",
     "cybersecurity/Réseaux/adresses réseaux",
-    "cybersecurity/Réseaux/équipements",
-    "cybersecurity/ethical hacking/Structures d'entreprises/teams",
-    "cybersecurity/ethical hacking/Structures d'entreprises",
-    "cybersecurity/Réseaux/adresses réseaux/1.1 IP",
+    "cybersecurity/Réseaux/adresses réseaux/équipements",
     "utilisation d'obsidian/Pasted image 20241107142030.png"
   ]
 }
