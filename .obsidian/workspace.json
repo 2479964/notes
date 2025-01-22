@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "e753a365a9805ea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a48739eb8ec11f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebea2b4aa16d3766",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.3 Prix et clients.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3 Prix et clients"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23b61f550f3a961f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f18a87893993e1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db32dde8443cd0f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "68f6fb3fd048fb58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"Obsidian Vault\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1d384fbcf5f9044e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f827a774db585dc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "54837dad448f1e69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0cce307ed20a412",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7fd32a2aa5f029fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "40a3ac817dbb352c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "96dcfd2c1bff9ffa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "49002127dc3478c4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ebea2b4aa16d3766",
+  "lastOpenFiles": [
+    "Pasted image 20250121220210.png",
+    "Pasted image 20250121220153.png",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.2 Communication Client.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.3 Prix et clients.md",
+    "Obsidian Vault/cybersecurity/Cryptographie",
+    "Obsidian Vault/Untitled.canvas",
+    "Obsidian Vault/zimages/Pasted image 20250121215025.png",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/pentesting.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.1.1 Scope Creep.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/distributions linux/Blackarch.md",
+    "Obsidian Vault/cybersecurity/application/APIs.md"
+  ]
+}
