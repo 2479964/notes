@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.3 Prix et clients.md",
+                "file": "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.4 Risks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 Prix et clients"
+              "title": "2.4 Risks"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Obsidian Vault\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,27 +160,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ebea2b4aa16d3766",
   "lastOpenFiles": [
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.3 Prix et clients.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.4 Risks.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.0 Info gathering.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.1 Passive reconnaissance.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.4 Analyze Vulnerability Scan Results.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.3 Art of performing vulnerability scans.md",
     "Pasted image 20250121220210.png",
     "Pasted image 20250121220153.png",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.1 Documentation de l'attaque.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.2 Active Reconnaissance.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.1 Passive Reconnaissance.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.3 Art of Performing Vulnerability Scans.md",
     "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.2 Communication Client.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.3 Prix et clients.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.1.1 Scope Creep.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.0 Documents partagés par le client.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/1.5 Type d'environnement de test.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Rules of engagement.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Target and scope.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Statement of work.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Confidentialité et informations sensibles.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Contrats.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Master Service Agreement.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Service-Level Agreement.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/1.8 Certificats de comformitées.md",
+    "Obsidian Vault/cybersecurity/application/APIs.md",
     "Obsidian Vault/cybersecurity/Cryptographie",
     "Obsidian Vault/Untitled.canvas",
     "Obsidian Vault/zimages/Pasted image 20250121215025.png",
     "Obsidian Vault/cybersecurity/ethical hacking/pentesting/pentesting.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.1.1 Scope Creep.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/distributions linux/Blackarch.md",
-    "Obsidian Vault/cybersecurity/application/APIs.md"
+    "Obsidian Vault/cybersecurity/ethical hacking/distributions linux/Blackarch.md"
   ]
 }
