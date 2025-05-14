@@ -1,1 +1,2 @@
 Pour le mot de passe, il est important de ne pas utilisé des mots de passe Défault et ne pas en utilisé des trop simple qui ne respecte pas des standars de longueur, complexité, ne comporte pas de session time out ou ne sont pas en utilisation de [[2FA]] Authentification double facteurs.
+test

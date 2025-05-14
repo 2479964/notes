@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.4 Risks.md",
+                "file": "Obsidian Vault/cybersecurity/Réseaux/Gestions DATA/Password Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.4 Risks"
+              "title": "Password Management"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -171,8 +172,10 @@
   },
   "active": "ebea2b4aa16d3766",
   "lastOpenFiles": [
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.3 Prix et clients.md",
+    "Obsidian Vault/cybersecurity/Réseaux/Gestions DATA/Key Management.md",
+    "Obsidian Vault/cybersecurity/cybersecurity.md",
     "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.4 Risks.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.3 Prix et clients.md",
     "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.0 Info gathering.md",
     "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.1 Passive reconnaissance.md",
     "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.4 Analyze Vulnerability Scan Results.md",
@@ -199,7 +202,6 @@
     "Obsidian Vault/cybersecurity/Cryptographie",
     "Obsidian Vault/Untitled.canvas",
     "Obsidian Vault/zimages/Pasted image 20250121215025.png",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/pentesting.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/distributions linux/Blackarch.md"
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/pentesting.md"
   ]
 }
