@@ -11,12 +11,14 @@
             "id": "647a04c001033a3c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "cybersecurity"
+                "file": "cybersecurity/ethical hacking/pentesting/3.1 Passive reconnaissance.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "cybersecurity"
+              "title": "3.1 Passive reconnaissance"
             }
           },
           {
@@ -268,8 +270,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a7ee1118fb0095f8",
+  "active": "7e3ab69d171166d5",
   "lastOpenFiles": [
+    "cybersecurity/ethical hacking/pentesting/1.8 Certificats de comformitées.md",
+    "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Target and scope.md",
+    "cybersecurity/ethical hacking/distributions linux/Parrot OS.md",
     "cybersecurity/cybersecurity.md",
     "cybersecurity/ethical hacking/pentesting/2.1.1 Scope Creep.md",
     "cybersecurity/ethical hacking/pentesting/1.3 Type de Pentest.md",
@@ -287,16 +292,13 @@
     "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Non-Disclosure Agreement.md",
     "cybersecurity/ethical hacking/pentesting/1.6 Laboratoire de Test.md",
     "cybersecurity/Réseaux/Gestions DATA/Key Management.md",
-    "cybersecurity/ethical hacking/pentesting/1.8 Certificats de comformitées.md",
     "cybersecurity/ethical hacking/pentesting/1.4 Les différents standars du pentesting.md",
     "cybersecurity/ethical hacking/pentesting/1.7 Informations légales.md",
     "cybersecurity/ethical hacking/pentesting/1.2 Organisation Pentesting.md",
     "cybersecurity/ethical hacking/pentesting/1.1 Vue de dessus sur le pentesting.md",
-    "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Target and scope.md",
     "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Rules of engagement.md",
     "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Statement of work.md",
     "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Service-Level Agreement.md",
-    "cybersecurity/ethical hacking/pentesting/Lois, Contrats/Contrats.md",
     "Recording 20250121024802.m4a",
     "Tags",
     "smart-chats",
