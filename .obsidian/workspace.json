@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/cybersecurity/Réseaux/Gestions DATA/Password Management.md",
+                "file": "Obsidian Vault/cybersecurity/Réseaux/Gestions DATA/Key Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Password Management"
+              "title": "Key Management"
             }
           }
         ]
@@ -161,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,36 +173,36 @@
   },
   "active": "ebea2b4aa16d3766",
   "lastOpenFiles": [
-    "Obsidian Vault/cybersecurity/Réseaux/Gestions DATA/Key Management.md",
-    "Obsidian Vault/cybersecurity/cybersecurity.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.4 Risks.md",
+    "Obsidian Vault/cybersecurity/Réseaux/Gestions DATA/Gestions DATA.md",
+    "Obsidian Vault/cybersecurity/Réseaux/Gestions DATA/Data Isolation.md",
+    "Obsidian Vault/cybersecurity/Réseaux/adresses réseaux/adresses réseaux.md",
+    "Obsidian Vault/cybersecurity/Réseaux/adresses réseaux/1.2 adressse MAC.md",
+    "Obsidian Vault/cybersecurity/Réseaux/adresses réseaux/1.1 IP/1.1.2 adresse ip privé.md",
+    "Obsidian Vault/cybersecurity/Réseaux/adresses réseaux/1.1 IP/1.1.1 IPv4.md",
+    "Obsidian Vault/cybersecurity/Réseaux/adresses réseaux/1.1 IP/1.1 Adresses ip.md",
     "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.3 Prix et clients.md",
     "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.0 Info gathering.md",
     "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.1 Passive reconnaissance.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.1.1 OSINT Tools.md",
     "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.4 Analyze Vulnerability Scan Results.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.3 Art of performing vulnerability scans.md",
-    "Pasted image 20250121220210.png",
-    "Pasted image 20250121220153.png",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.1 Documentation de l'attaque.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.2 Active Reconnaissance.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.1 Passive Reconnaissance.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/3.3 Art of Performing Vulnerability Scans.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.2 Communication Client.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.1.1 Scope Creep.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/2.0 Documents partagés par le client.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/1.5 Type d'environnement de test.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Rules of engagement.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/ethical hacking.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/Structures d'entreprises/teams/Red Team.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/Structures d'entreprises/teams/Purple Team.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/Structures d'entreprises/teams/Blue Team.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/1.4 Les différents standars du pentesting.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/1.3 Type de Pentest.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/1.2 Organisation Pentesting.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/1.1 Vue de dessus sur le pentesting.md",
     "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Target and scope.md",
     "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Statement of work.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Confidentialité et informations sensibles.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Contrats.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Master Service Agreement.md",
     "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Service-Level Agreement.md",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/1.8 Certificats de comformitées.md",
-    "Obsidian Vault/cybersecurity/application/APIs.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Rules of engagement.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Non-Disclosure Agreement.md",
+    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/Lois, Contrats/Master Service Agreement.md",
+    "Pasted image 20250121220210.png",
+    "Pasted image 20250121220153.png",
     "Obsidian Vault/cybersecurity/Cryptographie",
     "Obsidian Vault/Untitled.canvas",
-    "Obsidian Vault/zimages/Pasted image 20250121215025.png",
-    "Obsidian Vault/cybersecurity/ethical hacking/pentesting/pentesting.md"
+    "Obsidian Vault/zimages/Pasted image 20250121215025.png"
   ]
 }
