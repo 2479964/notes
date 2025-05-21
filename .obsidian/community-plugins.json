@@ -1,5 +1,9 @@
 [
   "obsidian-git",
   "obsidian-tasks-plugin",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-icon-folder",
+  "omnisearch",
+  "highlightr-plugin",
+  "obsidian-auto-link-title"
 ]
